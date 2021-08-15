@@ -18,8 +18,8 @@ Este es el repositorio privado en donde deberás subir los talleres, actividades
 1. [Tutorial de git-GitHub](https://youtu.be/4WTjx_Rw65A)
 
 
-## Notas
-Las notas oficiales se irán actualizando en [SIDING](https://www.ing.uc.cl/#SIDING).
+## Notas y sitio del curso
+Las notas oficiales se irán actualizando en [SIDING](https://www.ing.uc.cl/#SIDING). El sitio del curso es el [Syllabus](https://github.com/IIC2115/Syllabus)
 
 
 ## Entregas atrasadas de laboratorios
