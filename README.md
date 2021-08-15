@@ -1,6 +1,6 @@
 # IIC2115 - Programación como Herramienta para la Ingeniería - 2021-2
 
-## Datos del alumno:
+## Datos del alumno
 | Usuario GitHub |     	Correo       | 
 |      :-:       |        :-:        |
 |     llenar     |       llenar      | 
