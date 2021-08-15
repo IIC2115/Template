@@ -5,7 +5,7 @@ Este es el repositorio privado en donde deberás subir los talleres, actividades
  * AX: Donde X es el número de la actividad.
  * LX: Donde X es el número del laboratorio.
 
-**IMPORTANTE**: Estas carpetas DEBEN estar directamente dentro del repositorio privado, puesto que si están dentro de una subcarpeta el sistema de recolección automática no la va a encontrar y no podremos corregir la evaluación.
+**IMPORTANTE**: Estas carpetas DEBEN estar directamente dentro del repositorio privado, puesto que si están dentro de una subcarpeta, el sistema de recolección automática no la va a encontrar y no podremos corregir la evaluación.
 
 ## Datos del alumno
 | Usuario GitHub |     	Correo       | 
