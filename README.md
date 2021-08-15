@@ -1,18 +1,17 @@
-# IIC2115 - Programación como Herramienta para la Ingeniería
+# IIC2115 - Programación como Herramienta para la Ingeniería - 2021-2
 
 ## Datos del alumno:
 | Usuario GitHub |     	Correo       | 
 |      :-:       |        :-:        |
-|                |                   | 
+|     llenar     |       llenar      | 
 
-Este esSubir aquí sus laboratorios, talleres y actividades en carpetas llamadas:
+Este es el repositorio privado en donde deberás subir los talleres, actividades y laboratorios en carpetas llamadas:
  * TXY: Donde X es el número del capítulo e Y es la parte correspondiente (a o b)
- * AX: Donde X es el número del capítulo.
- * LX: Donde X es el número del capítulo.
+ * AX: Donde X es el número de la actividad.
+ * LX: Donde X es el número del laboratorio.
 
 
-## Video y tutoriales
-
+## Videos y tutoriales
 1. [Tutorial CMD](https://www.youtube.com/watch?v=qgFmMU6Pukc) 
 1. [Tutorial Instalación Python y Jupyter](https://www.youtube.com/watch?v=FxHoi_ZRV4s) 
 1. [Tutorial de git-GitHub](https://youtu.be/4WTjx_Rw65A)
