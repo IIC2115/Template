@@ -13,14 +13,8 @@ Este es el repositorio privado en donde deberás subir los ejercicios, actividad
 |     llenar     |       llenar      | 
 
 
-## Videos y tutoriales
-1. [Tutorial CMD](https://www.youtube.com/watch?v=qgFmMU6Pukc) 
-1. [Tutorial Instalación Python y Jupyter](https://www.youtube.com/watch?v=FxHoi_ZRV4s) 
-1. [Tutorial de git-GitHub](https://youtu.be/4WTjx_Rw65A)
-
-
 ## Notas y sitio del curso
-Las notas oficiales se irán actualizando en [SIDING](https://www.ing.uc.cl/#SIDING). El sitio del curso es el [Syllabus](https://github.com/IIC2115/Syllabus).
+Las notas oficiales se irán actualizando en [Canvas](https://cursos.canvas.uc.cl/). El sitio del curso es el [Syllabus](https://github.com/IIC2115/Syllabus).
 
 
 ## Recorrección
