@@ -1,4 +1,4 @@
-# IIC2115 - Programación como Herramienta para la Ingeniería - 2024-1
+# IIC2115 - Programación como Herramienta para la Ingeniería - 2024-2
 
 Este es el repositorio privado en donde deberás subir los ejercicios y laboratorios, respectivamente, en carpetas llamadas:
  * EX: para los ejercicios formativos, donde X es el número del capítulo.
