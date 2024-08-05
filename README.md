@@ -1,7 +1,7 @@
 # IIC2115 - Programación como Herramienta para la Ingeniería - 2024-2
 
 Este es el repositorio privado en donde deberás subir los ejercicios y laboratorios, respectivamente, en carpetas llamadas:
- * EX: para los ejercicios formativos, donde X es el número del capítulo.
+ * CX: para los ejercicios formativos, donde X es el número del capítulo.
  * LX: para los laboratorios, donde X es el número del capítulo.
 
 **IMPORTANTE**: Estas carpetas DEBEN estar directamente dentro del repositorio privado, puesto que si están dentro de una subcarpeta, el sistema de recolección automática no la va a encontrar y no podremos corregir la evaluación.
